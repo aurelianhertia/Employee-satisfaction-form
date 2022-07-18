@@ -17,18 +17,18 @@ body {
 #form-border {
     background-color: #eeeeee;
     margin: 0 auto;
-    border: 5px;
+    border-style: double;
     border-radius: 10px;
     width: 75%;
     max-width: 900px;
     padding: 10px;
-    
+
 }
 form {
     margin: 0 auto;
     width: 70%;
     padding: 1em;
-    border: 10px double #ccc;
+    border: 5px double;
     border-radius: 1em;
 }
 h1 {
